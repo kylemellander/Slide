@@ -51,6 +51,8 @@
 }
 .slider li {
   list-style: none;
+  background:#cdcdcd;
+  height:400px;
 }
 .slider ul li {
   float: left;
